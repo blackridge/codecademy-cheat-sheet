@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    display: block;
+    margin-top: 10px;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: lightseagreen;
+}
+
+table {
+    border: 2px solid lightslategray;
+    width: 700px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: lightslategrey;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+    border-top: 1px solid  lightslategrey;
+}
+
+.title {
+    text-align: center;
+}
+
+.code {
+    font-family: monospace;
+    /** color: aliceblue; **/
+    font-weight: bold;
+    background-color: lightsteelblue;
+}
+
+.tdName {
+    width: 300px;
+}
+
